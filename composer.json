@@ -1,0 +1,19 @@
+{
+    "name": "cxycdz/curl",
+    "description": "curl get and post http and https",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dmk",
+            "email": "ccmknt@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Cxycdz\\Curl\\":"src/"
+        }
+    }
+}
