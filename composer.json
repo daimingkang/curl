@@ -1,6 +1,6 @@
 {
     "name": "cxycdz/curl",
-    "description": "curl get and post http and https",
+    "description": "laravel模拟curl请求支持https",
     "license": "MIT",
     "authors": [
         {
