@@ -16,7 +16,8 @@
 ```        
 #使用
 在控制器中直接
- ```$curl=app('curl');
+ ```
+    $curl=app('curl');
     $data=$curl->curl_http_get('http://www.cxycdz.cn');
     .....
 ```     
