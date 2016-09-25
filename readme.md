@@ -6,6 +6,10 @@
 ```
 "cxycdz/curl":"~1.0"
 ```
+执行更新命令
+```
+php composer update
+```
 #配置
 在config/app.php的providers中配置
 ```
